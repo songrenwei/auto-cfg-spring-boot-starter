@@ -1,4 +1,4 @@
-package com.cfg.srw.autocfgspringbootstarter.config;
+package com.srw.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

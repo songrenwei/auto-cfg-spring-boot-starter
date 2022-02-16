@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.cfg.srw.autocfgspringbootstarter.config.AutoCfgConfiguration
+  com.srw.config.AutoCfgConfiguration

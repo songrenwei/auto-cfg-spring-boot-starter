@@ -1,6 +1,6 @@
-package com.cfg.srw.autocfgspringbootstarter.bean;
+package com.srw.bean;
 
-import com.cfg.srw.autocfgspringbootstarter.config.AutoCfgProperties;
+import com.srw.config.AutoCfgProperties;
 
 public class AutoCfg {
 

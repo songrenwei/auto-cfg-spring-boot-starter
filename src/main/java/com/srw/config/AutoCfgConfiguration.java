@@ -1,6 +1,6 @@
-package com.cfg.srw.autocfgspringbootstarter.config;
+package com.srw.config;
 
-import com.cfg.srw.autocfgspringbootstarter.bean.AutoCfg;
+import com.srw.bean.AutoCfg;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
